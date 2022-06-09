@@ -1,0 +1,70 @@
+[
+  {
+    "name": "ACE Retro wallpaper 1",
+    "author": "Don7TK",
+    "url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/ACE%20Wall%20Pastel%20JN.png",
+    "collections": "Retro",
+    "downloadable": true,
+    "size": 345066,
+    "dimensions": "1280 x 720 px",
+    "copyright": "CreativeCommons Attribution-ShareALike"
+  },
+  {
+    "name": "ACE Retro wallpaper 2",
+    "author": "Don7TK",
+    "url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/ACE%20Wall%20Pastel%20JN%202.png",
+    "collections": "Retro",
+    "downloadable": false,
+    "copyright": "CreativeCommons Attribution-ShareALike"
+  },
+  {
+    "name": "ACE Retro wallpaper 3",
+    "author": "Don7TK",
+    "url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/ACE%20WALL%20Pastel%20JN%203.png",
+    "collections": "Retro",
+    "downloadable": false,
+    "copyright": "CreativeCommons Attribution-ShareALike"
+  },
+  {
+    "name": "ACE Retro wallpaper 4",
+    "author": "Don7TK",
+    "url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/ACE%20WALL%20Pastel%20JN%204.png",
+    "collections": "Retro",
+    "downloadable": false,
+    "copyright": "CreativeCommons Attribution-ShareALike"
+  }
+  {
+    "name": "ACE Retro wallpaper 5",
+    "author": "Don7TK",
+    "url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/ACE%20WALL%20Pastel%20JN%205.png",
+    "collections": "Retro",
+    "downloadable": true,
+    "size": 345066,
+    "dimensions": "1280 x 720 px",
+    "copyright": "CreativeCommons Attribution-ShareALike"
+  },
+  {
+    "name": "ACE Retro wallpaper 6",
+    "author": "Don7TK",
+    "url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/ACE%20WALL%20Pastel%20JN%206.png",
+    "collections": "Retro",
+    "downloadable": false,
+    "copyright": "CreativeCommons Attribution-ShareALike"
+  },
+  {
+    "name": "ACE Retro wallpaper 7",
+    "author": "Don7TK",
+    "url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/ACE%20WALL%20Pastel%20JN%207.png",
+    "collections": "Retro",
+    "downloadable": false,
+    "copyright": "CreativeCommons Attribution-ShareALike"
+  },
+  {
+    "name": "ACE Retro wallpaper 8",
+    "author": "Don7TK",
+    "url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/ACE%20WALL%20Pastel%20JN%208.png",
+    "collections": "Retro",
+    "downloadable": false,
+    "copyright": "CreativeCommons Attribution-ShareALike"
+  }
+]
